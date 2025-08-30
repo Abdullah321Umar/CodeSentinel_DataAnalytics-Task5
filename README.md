@@ -54,6 +54,6 @@ This task not only boosted my technical skills in Power BI but also enhanced my 
 ### 📧 Email: umerabdullah048@gmail.com
 
 
-### 6.	Screenshots / Demos
+### Screenshots / Demos
 Show what the Code and Output looks like.
 ![DashBoard Preview](https://github.com/Abdullah321Umar/CodeSentinel_DataAnalytics-Task5/blob/main/Netflix%20Movies%20%26%20TV%20Shows%20Analysis%20Dashboard.png)
